@@ -22,7 +22,7 @@ ukázka dočasného forku, který skončí jakmile je hlavní větev delší a z
 
 ## Obsah bloků
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/1088ad6d-37b9-4969-bc6d-62e2f0f45a82)
-
+# Hash předdchozího bloku
 
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
