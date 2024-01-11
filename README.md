@@ -27,8 +27,11 @@ Blok obsahuje hash z předchozího bloku, aby na sebe byly navázané a tvořily
 ### Timestamp
 Časový údaj vytvoření bloku, aby bylo vidět jaké bloky jsou vytvořené časově po sobě a jak dlouho ho trvalo vytěžit.
 ### Merkle tree
-Ve stromu jsou zahashované spojené a opět zahashované všechny informace dohromady, dokud nezbyde pouze jeden hash 
+Ve stromu jsou zahashované,spojené a opět zahashované všechny informace dohromady, dokud nezbyde pouze jeden hash 
 toto se dělá kvůli zvýšení integritě dat a take zmenšení objemu dat.
+### Nonce
+Nonce je unikátní číslo v bloku, které těžař musí vztvořit z hashe daného bloku tak, aby mělo určitý počet nul na začátku tento proces se jmenuje proof-of-work a s každou vykonanou prací dostane těžař určitý počet bitcoinu. Proces se sám upravuje tak, aby vytěžení jednoho bloku s rostoucím výkonem počítáčů a počtu těžářů vždy trvalo okolo 10 minut.
+
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
 Blockchain využívá kryptografii k zajištění integrity a bezpečnosti dat. Každý blok je propojen s předchozím a následujícím blokem, což ztěžuje manipulaci s informacemi.
