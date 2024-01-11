@@ -6,6 +6,8 @@ Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězu 
 ### 1.2 Vznik a historie blockchainu
 Koncept blockchainu vznikl v roce 2008 kdy ho vytvořila osoba či tým pod jménem či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro kryptoměnu Bitcoin.
 
+## Podrobnější popis blockchainu
+
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
 Blockchain využívá kryptografii k zajištění integrity a bezpečnosti dat. Každý blok je propojen s předchozím a následujícím blokem, což ztěžuje manipulaci s informacemi.
@@ -16,8 +18,7 @@ Bez centrální autority blockchain eliminuje potřebu důvěřovat jedné stran
 ### 2.3 Princip blockchainu
 Princip spočívá v distribuované databázi, kde každý účastník má přístup ke kompletní historii transakcí, což eliminuje potřebu důvěřovat jedné entitě.
 
-### 2.4 Podrobnější popis blockchainu
-Blockchain může být veřejný (otevřený každému) nebo soukromý (omezený účastníky). Každý blok obsahuje hash předchozího bloku, transakce a nový hash.
+
 
 ### 3. Využití blockchainu
 Blockchain není používán pouze pro kryptoměny. Jeho decentralizovaná povaha má potenciál změnit mnoho odvětví, jako jsou finance, zdravotnictví nebo dokonce hlasování.
