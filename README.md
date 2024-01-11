@@ -1,7 +1,7 @@
 # Základy blockchain technologie a kryptoměn
 ## Co je to blockchain?
 ### 1.1 Základní představení blockchainu
-Blockchain je decentralizovaný, distribuovaný systém, který záznamovým způsobem uchovává data. Bloky informací jsou propojeny pomocí kryptografie a vytvářejí neprůstřelný řetězec, který je nemožné měnit bez změny všech předchozích bloků.
+Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězu bloků obsahující informace uchovává data. Bloky informací jsou propojeny pomocí kryptografie a vytvářejí neprůstřelný řetězec, který je nemožné zpětně měnit bez kommpletní změny všech předchozích bloků, tak aby byly stále propojené.
 
 ### 1.2 Vznik a historie blockchainu
 Koncept blockchainu vznikl v roce 2008 pod pseudonymem Satoshi Nakamoto, který jej implementoval jako základ pro kryptoměnu Bitcoin.
