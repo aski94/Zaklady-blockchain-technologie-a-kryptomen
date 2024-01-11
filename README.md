@@ -16,11 +16,14 @@ Hotový blok rozešle peer-to-peer připojením jednotlivým uživatelům v sít
 Těžič který blok vyrobí neboli vytěží dostane odměnu za jeho vykonanou činost, aby měl motivaci pokračovat. V případě bitcoinu se jedná o odměnu bitcoinem, což je důvod proč se těží.
 ### 4. Uskutečnení transkace
 Jakmile je blok s transakcí vytvořený, tak je transakce ukončena. Jistota, že je blok a transakce pravdivá je až poté, co je na něj navázáno pár dalších blocků a s každým dalším blockem je jistejší, že je pravdivý kvůli výpočetní složitosti na vytvoření bloku.
-****
+
+
+
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/d7f49962-4109-4ae1-a09d-bfd2baa72a9f)
 ukázka dočasného forku, který skončí jakmile je hlavní větev delší a začne se věřit jí
 
-## Ukázka bloku
+## Obsah bloků
+![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/a8e0da26-9aa4-47bf-95d3-63d523cd5045)
 
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
