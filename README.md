@@ -47,7 +47,7 @@ První a zárověn nejznámější kryptoměnou je bitcoin, který vznikl v roce
 ### Získávání kryptoměn
 Kryptoměny se ve většině přčípadech získávají pomocí těžení, což je úspěšné vytvoření jednoho bloku, který se naváže na řetěz, pomocí velké početní síly.
 
-## Výhody a nevýhody kryptoměn
+## Výhody kryptoměn
 Mezi výhody patří rychlé a levné transakce, zatímco nevýhody zahrnují nestabilitu hodnoty a obavy o bezpečnost.
 
 ### 4.5 Zabezpečení
@@ -61,6 +61,8 @@ Některé kryptoměny poskytují vyšší úroveň anonymizace transakcí, což 
 
 ### 4.8 Rychlé a nezpoplatněné platby
 Transakce kryptoměn jsou obvykle rychlé a s minimálními nebo žádnými poplatky.
+
+## Nevýhody kryptoměn
 
 ### 4.9 Zneužití
 Kryptoměny mohou být zneužity pro nelegální aktivity kvůli své anonymitě.
