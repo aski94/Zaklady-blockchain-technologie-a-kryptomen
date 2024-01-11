@@ -30,7 +30,7 @@ Blok obsahuje hash z předchozího bloku, aby na sebe byly navázané a tvořily
 Strom ve kterém jsou zahashované, spojené a opět zahashované všechny informace dohromady, dokud nezbyde pouze jeden hash 
 toto se dělá kvůli zvýšení integritě dat a take zmenšení objemu dat.
 ### Nonce
-Nonce je unikátní číslo v bloku, které těžař musí vztvořit z hashe daného bloku tak, aby mělo určitý počet nul na začátku tento proces se jmenuje proof-of-work a s každou vykonanou prací dostane těžař určitý počet bitcoinu. Proces se sám upravuje tak, aby vytěžení jednoho bloku s rostoucím výkonem počítáčů a počtu těžářů vždy trvalo okolo 10 minut.
+Nonce je unikátní číslo, které těžař musí vztvořit z hashe daného bloku tak, aby mělo určitý počet nul na začátku tento proces se jmenuje proof-of-work a s každou vykonanou prací dostane těžař určitý počet bitcoinu. Proces se sám upravuje tak, aby vytěžení jednoho bloku s rostoucím výkonem počítáčů a počtu těžářů vždy trvalo okolo 10 minut.
 
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/0c0a35bf-8cc0-4285-b168-0ecd69660f1e)
 ukazka hashovani bloku 
