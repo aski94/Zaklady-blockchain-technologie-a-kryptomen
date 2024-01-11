@@ -23,7 +23,12 @@ ukázka dočasného forku, který skončí jakmile je hlavní větev delší a z
 ## Obsah bloků
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/1088ad6d-37b9-4969-bc6d-62e2f0f45a82)
 ### Hash předdchozího bloku
-
+Blok obsahuje hash z předchozího bloku, aby na sebe byly navázané a tvořily tak řetěz.
+### Timestamp
+Časový údaj vytvoření bloku, aby bylo vidět jaké bloky jsou vytvořené časově po sobě a jak dlouho ho trvalo vytěžit.
+### Merkle tree
+Ve stromu jsou zahashované spojené a opět zahashované všechny informace dohromady, dokud nezbyde pouze jeden hash 
+toto se dělá kvůli zvýšení integritě dat a take zmenšení objemu dat.
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
 Blockchain využívá kryptografii k zajištění integrity a bezpečnosti dat. Každý blok je propojen s předchozím a následujícím blokem, což ztěžuje manipulaci s informacemi.
