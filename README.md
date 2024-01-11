@@ -14,7 +14,6 @@ Uživatel vytvoří transakci, které se společně s dalšíma transakcema spoj
 Hotový blok rozešle peer-to-peer připojením jednotlivým uživatelům v síti a věří se řetězci, který je ze všech nejdelší, kvůli náročnosti na jeho výpočet.
 ### 3. Odměna
 Těžič který blok vyrobí neboli vytěží dostane odměnu za jeho vykonanou činost, aby měl motivaci pokračovat. V případě bitcoinu se jedná o odměnu bitcoinem, což je důvod proč se těží.
-
 ### 4. Uskutečnení transkace
 Jakmile je blok s transakcí vytvořený, tak je transakce ukončena. Jistota, že je blok a transakce pravdivá je až poté, co je na něj navázáno pár dalších blocků a s každým dalším blockem je jistejší, že je pravdivý kvůli výpočetní složitosti na vytvoření bloku.
 
@@ -22,7 +21,8 @@ Jakmile je blok s transakcí vytvořený, tak je transakce ukončena. Jistota, �
 ukázka dočasného forku, který skončí jakmile je hlavní větev delší a začne se věřit jí
 
 ## Obsah bloků
-![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/a8e0da26-9aa4-47bf-95d3-63d523cd5045)
+![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/1088ad6d-37b9-4969-bc6d-62e2f0f45a82)
+
 
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
@@ -33,8 +33,6 @@ Bez centrální autority blockchain eliminuje potřebu důvěřovat jedné stran
 
 ### 2.3 Princip blockchainu
 Princip spočívá v distribuované databázi, kde každý účastník má přístup ke kompletní historii transakcí, což eliminuje potřebu důvěřovat jedné entitě.
-
-
 
 ### 3. Využití blockchainu
 Blockchain není používán pouze pro kryptoměny. Jeho decentralizovaná povaha má potenciál změnit mnoho odvětví, jako jsou finance, zdravotnictví nebo dokonce hlasování.
