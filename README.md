@@ -1,7 +1,7 @@
 # Základy blockchain technologie a kryptoměn
 ## Co je to blockchain?
 ### Základní představení blockchainu
-Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězů bloků uchovává informace. Bloky obsahují data, která jsou zabezpečeny pomocí kryptografie a vytvářejí tak neprůstřelné řetězce. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, což je pro jendotlivého uživatele statisticky nemožné, protože by člověk musel mít početní sílu v hodnotě 51% všech těžičů, tak aby mohl všechny bloky podvrhnout a systém je tak velmi bezpečný.
+Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězů bloků uchovává informace. Bloky obsahují data, která jsou zabezpečeny pomocí kryptografie a vytvářejí tak neprůstřelné řetězce. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, což je pro jendotlivého uživatele statisticky nemožné, protože by člověk musel mít početní sílu v hodnotě 51% všech těžičů, tak aby mohl všechny bloky podvrhnout a systém je tak velmi bezpečný. V případě existence více větví s blokama se věří vždy větvi, která je nejdelší, protože na ní pracujou všichni těžiči najednou a je tak právě ta nejdelší větev ta správná.
 
 ### Vznik a historie blockchainu
 První blockchain vznikl v roce 2009, kdy ho vytvořila osoba společně s kryptoměnou bitcoin osoba, či tým pod jménem, či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro bitcoin.
