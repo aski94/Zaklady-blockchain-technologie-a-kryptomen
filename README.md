@@ -1,7 +1,7 @@
 # Základy blockchain technologie a kryptoměn
 ## Co je to blockchain?
 ### Základní představení blockchainu
-Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězů bloků uchovává informace. Bloky obsahují data, která jsou zabezpečeny pomocí kryptografie a vytvářejí tak neprůstřelné řetězce. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, což je pro jendotlivého uživatele statisticky nemožné a systém je tak velmi bezpečný.
+Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězů bloků uchovává informace. Bloky obsahují data, která jsou zabezpečeny pomocí kryptografie a vytvářejí tak neprůstřelné řetězce. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, což je pro jendotlivého uživatele statisticky nemožné, protože by člověk musel mít početní sílu v hodnotě 51% všech těžičů, tak aby mohl všechny bloky podvrhnout a systém je tak velmi bezpečný.
 
 ### Vznik a historie blockchainu
 První blockchain vznikl v roce 2009, kdy ho vytvořila osoba společně s kryptoměnou bitcoin osoba, či tým pod jménem, či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro bitcoin.
@@ -13,7 +13,7 @@ Uživatel vytvoří transakci, které se společně s dalšíma transakcema spoj
 ### 2. Rozeslání
 Hotový blok rozešle peer-to-peer připojením jednotlivým uživatelům v síti a věří se řetězci, který je ze všech nejdelší, kvůli náročnosti na jeho výpočet.
 ### 3. Odměna
-Těžič který blok vyrobí neboli vytěží dostane odměnu za jeho vykonanou činost, aby měl motivaci pokračovat. V případě bitcoinu se jedná o odměnu bitcoinem, což je důvod proč se těží.
+Těžič který blok vyrobí, neboli vytěží dostane odměnu za jeho vykonanou činost, aby měl motivaci pokračovat. V případě bitcoinu se jedná o odměnu bitcoinem, což je důvod proč se těží.
 ### 4. Uskutečnení transkace
 Jakmile je blok s transakcí vytvořený, tak je transakce ukončena. Jistota, že je blok a transakce pravdivá je až poté, co je na něj navázáno pár dalších blocků a s každým dalším blockem je jistejší, že je pravdivý kvůli výpočetní složitosti na vytvoření bloku.
 
