@@ -32,6 +32,7 @@ toto se dělá kvůli zvýšení integritě dat a take zmenšení objemu dat.
 ### Nonce
 Nonce je unikátní číslo v bloku, které těžař musí vztvořit z hashe daného bloku tak, aby mělo určitý počet nul na začátku tento proces se jmenuje proof-of-work a s každou vykonanou prací dostane těžař určitý počet bitcoinu. Proces se sám upravuje tak, aby vytěžení jednoho bloku s rostoucím výkonem počítáčů a počtu těžářů vždy trvalo okolo 10 minut.
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/d6d485d0-467d-4fd1-80c7-5f7c2ab328a1)
+
 ukazka hashovani blocku 
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
