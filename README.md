@@ -1,14 +1,25 @@
 # Základy blockchain technologie a kryptoměn
 ## Co je to blockchain?
 ### Základní představení blockchainu
-Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězu bloků uchovává informace. Tyto bloky obsahují data, jsou propojeny pomocí kryptografie a vytvářejí neprůstřelný řetězec. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, aby bylo zajištěno, že jsou stále pevně propojeny a nemožné je zpětně měnit
+Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězu bloků uchovává informace. Tyto bloky obsahují data, jsou propojeny pomocí kryptografie a vytvářejí neprůstřelný řetězec. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, aby bylo zajištěno, že jsou stále pevně propojeny a nemožné je zpětně měnit.
 
 ### Vznik a historie blockchainu
 Koncept blockchainu vznikl v roce 2008 kdy ho vytvořila osoba či tým pod jménem či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro kryptoměnu Bitcoin.
 
 ## Podrobnější vysvětlení blockchainu
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/043d8463-1006-4565-92f6-00f9240e76ab)
+### 1. Transsakce
+Uživatel vytvoří transakci, které se společně s dalšíma transakcema spojí do unikátního bloku, který musí obsahovat i hash předchozího blocku, tak aby tvořil řetězec bloků.
+### 2. Rozeslání
+Hotový blok rozešle peer-to-peer připojením jednotlivým uživatelům v síti a věří se řetězci, který je ze všech nejdelší, kvůli náročnosti na jeho výpočet.
+### 3. Odměna
+Těžič který blok vyrobí neboli vytěží dostane odměnu za jeho vykonanou činost, aby měl motivaci pokračovat. V případě bitcoinu se jedná o odměnu bitcoinem, což je důvod proč se těží.
+### 4. Uskutečnení transkace
+Jakmile je blok s transakcí vytvořený, tak je transakce ukončena. Jistota, že je blok a transakce pravdivá je až poté, co je na něj navázáno pár dalších blocků a s každým dalším blockem je jistejší, že je pravdivý kvůli výpočetní složitosti na vytvoření bloku.
+![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/d7f49962-4109-4ae1-a09d-bfd2baa72a9f)
 
+
+## Ukázka bloku
 
 ## Výhody blockchainu
 ### 2.1 Zabezpečení
