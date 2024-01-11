@@ -4,7 +4,7 @@
 Blockchain je decentralizovaný distribuovaný systém, který pomocí řetězů bloků uchovává informace. Bloky obsahují data, která jsou zabezpečeny pomocí kryptografie a vytvářejí tak neprůstřelné řetězce. Změna v jednom bloku vyžaduje kompletní úpravu všech předchozích bloků, což je pro jendotlivého uživatele statisticky nemožné a systém je tak velmi bezpečný.
 
 ### Vznik a historie blockchainu
-Koncept blockchainu vznikl v roce 2009 kdy ho vytvořila osoba společně s kryptoměnou bitcoin osoba či tým pod jménem či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro bitcoin.
+První blockchain vznikl v roce 2009, kdy ho vytvořila osoba společně s kryptoměnou bitcoin osoba, či tým pod jménem, či pseudonymem Satoshi Nakamoto, který jej implementoval jako veřejnou knihu pro zapisování jednotlivých transakcí pro bitcoin.
 
 ## Podrobnější vysvětlení blockchainu
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/043d8463-1006-4565-92f6-00f9240e76ab)
