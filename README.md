@@ -37,10 +37,10 @@ ukazka hashovani bloku
 
 ## Kryptoměny
 ### Co jsou to kryptoměny
-Kryptoměny jsou digitální nebo virtuální měny, které využívají kryptografii pro zabezpečení transakcí a řízení vytváření nových jednotek.
+Kryptoměny jsou digitální měny, které využívají kryptografii pro zabezpečení transakcí. Kryptoměny jsou decentralizované a většnou vuyžívají technologi právě blockhainu.
 
-### 4.2 Historie Bitcoinu
-Bitcoin, první kryptoměna, vznikl v roce 2009. Jeho zakladatel, Satoshi Nakamoto, navrhl decentralizovaný systém elektronické hotovosti.
+### 4.2 Historie kryptoměn
+První a zárověn nejznámější kryptoměnou je bitcoin, který vznikl v roce 2009. Stvořil ho již zmiňovaný Satoshi Nakamoto společně s blockchainem, jenž bitcoin využíval.
 
 ### 4.3 Těžení kryptoměn
 Těžba kryptoměn je proces, kde se využívá výpočetní síla k ověřování transakcí a přidávání nových bloků do blockchainu.
