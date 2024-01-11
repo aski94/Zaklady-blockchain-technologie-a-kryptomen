@@ -22,6 +22,8 @@ ukázka dočasného forku, který skončí jakmile je hlavní větev delší a z
 
 ## Obsah bloků
 ![image](https://github.com/aski94/Zaklady-blockchain-technologie-a-kryptomen/assets/114053450/1088ad6d-37b9-4969-bc6d-62e2f0f45a82)
+### Data
+Data, které jsou uvnitř bloku obsahují jednotlivé transakce, kdo komu kryptoměnu poslal a v kolik hodin a jaké množství. 
 ### Hash předdchozího bloku
 Blok obsahuje hash z předchozího bloku, aby na sebe byly navázané a tvořily tak řetěz.
 ### Timestamp
