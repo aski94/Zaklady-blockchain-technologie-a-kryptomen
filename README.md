@@ -39,31 +39,27 @@ ukazka hashovani bloku
 
 ## Kryptoměny
 ### Co jsou to kryptoměny
-Kryptoměny jsou digitální měny, které využívají kryptografii pro zabezpečení transakcí. Kryptoměny jsou decentralizované a většnou vuyžívají technologi právě blockhainu.
+Kryptoměny jsou digitální měny, které využívají kryptografii pro zabezpečení transakcí. Kryptoměny jsou decentralizované a většnou vuyžívají technologi právě blockchainu.
 
 ### Historie kryptoměn
 První a zárověn nejznámější kryptoměnou je bitcoin, který vznikl v roce 2009. Stvořil ho již zmiňovaný Satoshi Nakamoto společně s blockchainem, jenž bitcoin využíval.
 
 ### Získávání kryptoměn
-Kryptoměny se ve většině přčípadech získávají pomocí těžení, což je úspěšné vytvoření jednoho bloku, který se naváže na řetěz, pomocí velké početní síly.
+Kryptoměny se ve většině případech získávají pomocí těžení, což je úspěšné vytvoření jednoho bloku, který se naváže na řetěz, pomocí velké početní síly.
 
 ## Výhody kryptoměn
 Mezi výhody patří rychlé a levné transakce, zatímco nevýhody zahrnují nestabilitu hodnoty a obavy o bezpečnost.
 
-### 4.5 Zabezpečení
-Kryptoměny využívají kryptografii k zajištění bezpečnosti transakcí a udržení integrity sítě.
+### Decentralizace
+Decentralizace kryptoměn eliminuje potřebu centrální autority, což zaručuje, že kryptoměna jen tak ze dne na den neskončí či neskrachuje, jelikožož ji nevlastní konkrétní banka či stát.
 
-### 4.6 Decentralizace
-Decentralizovaná povaha kryptoměn eliminuje potřebu centrální autority.
+### Anonymita
+Kryptoměny poskytují vysokou úrověn anonymity jednotlivých transakcí, což může být přitažlivé kvůli zabezpečení citlivých údajů.
 
-### 4.7 Anonymita
-Některé kryptoměny poskytují vyšší úroveň anonymizace transakcí, což může být přitažlivé pro některé uživatele.
-
-### 4.8 Rychlé a nezpoplatněné platby
+### Rychlé a nezpoplatněné platby
 Transakce kryptoměn jsou obvykle rychlé a s minimálními nebo žádnými poplatky.
 
 ## Nevýhody kryptoměn
-
 ### Zneužití
 Kryptoměny mohou být zneužity pro nelegální aktivity kvůli své anonymitě.
 
