@@ -64,21 +64,8 @@ Transakce kryptoměn jsou obvykle rychlé a s minimálními nebo žádnými popl
 
 ## Nevýhody kryptoměn
 
-### 4.9 Zneužití
+### Zneužití
 Kryptoměny mohou být zneužity pro nelegální aktivity kvůli své anonymitě.
 
-### 4.10 Vysoká nestabilita
-Hodnota kryptoměn může dramaticky kolísat, což způsobuje rizika pro investory.
-
-## Výhody a charakteristiky blockchainu
-### 2.1 Zabezpečení
-Blockchain využívá kryptografii k zajištění integrity a bezpečnosti dat. Každý blok je propojen s předchozím a následujícím blokem, což ztěžuje manipulaci s informacemi.
-
-### 2.2 Decentralizace
-Bez centrální autority blockchain eliminuje potřebu důvěřovat pouze jedné straně. To znamená, že systém je odolný vůči cenzuře a výpadkům zárovv.
-
-### 2.3 Princip blockchainu
-Princip spočívá v distribuované databázi, kde každý účastník má přístup ke kompletní historii transakcí, což eliminuje potřebu důvěřovat jedné entitě.
-
-### 3. Využití blockchainu
-Blockchain není používán pouze pro kryptoměny. Jeho decentralizovaná povaha má potenciál změnit mnoho odvětví, jako jsou finance, zdravotnictví nebo dokonce hlasování.
+### Vysoká volitalita
+Hodnota kryptoměn může dramaticky kolísat a růst, což je pro platidla obecně nevhodná vlastnost.
