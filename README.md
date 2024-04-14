@@ -25,7 +25,7 @@ ukázka dočasného forku neboli více větví najednou, který skončí jakmile
 ### Data
 Data, které jsou uvnitř bloku obsahují jednotlivé transakce, kdo komu kryptoměnu poslal a v kolik hodin a jaké množství. 
 ### Hash předdchozího bloku
-Blok obsahuje hash z předchozího bloku, aby na sebe navazovakky a tvořily tak řetěz.
+Blok obsahuje hash z předchozího bloku, aby na sebe navazovaly a tvořily tak řetěz.
 ### Timestamp
 Časový údaj vytvoření bloku, aby bylo vidět jaké bloky jsou vytvořené časově po sobě a jak dlouho je trvalo vytěžit.
 ### Merkle tree
